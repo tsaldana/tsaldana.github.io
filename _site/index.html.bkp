@@ -10,7 +10,7 @@
   <meta name="description" content="">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://example.com/">
+  <link rel="canonical" href="http://example.com/.bkp">
   <link rel="alternate" type="application/rss+xml" title="Tim Saldana" href="http://example.com/feed.xml">
 </head>
 
@@ -79,6 +79,8 @@
       </li>
     
   </ul>
+
+  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
 
 </div>
 

@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <title>Tim Saldana</title>
+    <description></description>
     <link>http://example.com/</link>
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Aug 2016 17:40:14 -0500</pubDate>
-    <lastBuildDate>Fri, 26 Aug 2016 17:40:14 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Aug 2016 08:41:59 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Aug 2016 08:41:59 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Resume</title>
+        <description>&lt;p&gt;Recent update to Resume
+	Get it here!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://example.com/career/2016/08/28/updated-resume.html</link>
+        <guid isPermaLink="true">http://example.com/career/2016/08/28/updated-resume.html</guid>
+        
+        
+        <category>career</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
