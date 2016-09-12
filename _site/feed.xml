@@ -5,9 +5,23 @@
     <description></description>
     <link>http://example.com/</link>
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2016 16:07:28 -0500</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 16:07:28 -0500</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2016 16:25:52 -0500</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2016 16:25:52 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Resume</title>
+        <description>&lt;p&gt;Recent update to Resume
+&lt;img src=&quot;https://tsaldana.github.io/images/ResumeSep12.pdf&quot; alt=&quot;Resume&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://example.com/career/2016/09/12/updated-resume.html</link>
+        <guid isPermaLink="true">http://example.com/career/2016/09/12/updated-resume.html</guid>
+        
+        
+        <category>career</category>
+        
+      </item>
     
       <item>
         <title>Portfolio</title>
@@ -20,23 +34,9 @@
 &lt;p&gt;TREC JavaScript
 &lt;img src=&quot;https://tsaldana.github.io/images/TRECJS.jpg&quot; alt=&quot;TRECJS&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://example.com/career/2016/09/12/Portfolio.html</link>
-        <guid isPermaLink="true">http://example.com/career/2016/09/12/Portfolio.html</guid>
-        
-        
-        <category>career</category>
-        
-      </item>
-    
-      <item>
-        <title>Resume</title>
-        <description>&lt;p&gt;Recent update to Resume
-	Get it here!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://example.com/career/2016/08/28/updated-resume.html</link>
-        <guid isPermaLink="true">http://example.com/career/2016/08/28/updated-resume.html</guid>
+        <pubDate>Thu, 31 Dec 2015 23:00:00 -0600</pubDate>
+        <link>http://example.com/career/2015/12/31/Portfolio.html</link>
+        <guid isPermaLink="true">http://example.com/career/2015/12/31/Portfolio.html</guid>
         
         
         <category>career</category>
