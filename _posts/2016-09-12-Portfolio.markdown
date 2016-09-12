@@ -5,10 +5,10 @@ date:   2016-09-12 00:00:00 -0500
 categories: career
 ---
 ESS
-![ESS](/images/ESS.jpg)
+![ESS](https://tsaldana.github.io/images/ESS.jpg)
 
 TREC Flex
-![TREC](/images/TREC.jpg)
+![TREC](https://tsaldana.github.io/images/TREC.jpg)
 
 TREC JavaScript
-![TRECJS](/images/TRECJS.jpg)
+![TRECJS](https://tsaldana.github.io/images/TRECJS.jpg)
